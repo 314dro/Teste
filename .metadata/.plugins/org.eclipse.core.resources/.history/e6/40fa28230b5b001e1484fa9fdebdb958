@@ -1,0 +1,21 @@
+package exercicios;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class exercicio3 {
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		int numeroFuncionario = sc.nextInt();
+		double horasTrabalhadas = sc.nextDouble();
+		double valorDaHora = sc.nextDouble();
+		double salario = horasTrabalhadas * valorDaHora;
+		
+		System.out.println("NUMBER =" + numeroFuncionario);
+		System.out.printf("SALARY = U$ %.2f%n", salario);
+		sc.close();
+	}
+
+}

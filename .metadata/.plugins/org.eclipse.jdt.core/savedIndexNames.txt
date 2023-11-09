@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/home/pedro/Área de Trabalho/ws-eclipse/.metadata/.plugins/org.eclipse.jdt.core
+4071426965.index
+1865797976.index
+2176883728.index
+3189021885.index

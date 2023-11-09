@@ -1,0 +1,20 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class exercicio4 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int codigoUm = sc.nextInt(); int numeroDePecasUm = sc.nextInt(); double precoUm = sc.nextDouble();
+		int codigoDois = sc.nextInt(); int numeroDePecasDois = sc.nextInt(); double precoDois = sc.nextDouble();
+
+		double valor = numeroDePecasUm * precoUm + numeroDePecasDois * precoDois;
+		
+		System.out.printf("VALOR A PAGAR: R$ %.2f%n" + valor);
+				
+		sc.close();
+	}
+
+}
