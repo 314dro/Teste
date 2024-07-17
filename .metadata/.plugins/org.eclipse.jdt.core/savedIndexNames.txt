@@ -1,5 +1,10 @@
-INDEX VERSION 1.134+/home/pedro/Área de Trabalho/ws-eclipse/.metadata/.plugins/org.eclipse.jdt.core
-4071426965.index
+INDEX VERSION 1.134+/home/pedroubu/Área de Trabalho/ws-eclipse/.metadata/.plugins/org.eclipse.jdt.core
+692771918.index
 1865797976.index
-2176883728.index
-3189021885.index
+2354338450.index
+1376912565.index
+4011297274.index
+2048210675.index
+4031441268.index
+124859285.index
+1842648709.index

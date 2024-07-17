@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
     <entry loc="/home/pedro/Área de Trabalho/eclipse-jee-2023-06-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502" stamp="1686234810000"/>
+    <entry loc="/home/pedroubu/Área de Trabalho/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre" stamp="1709828694000"/>
     <entry loc="/home/pedro/Área de Trabalho/eclipse-jee-2023-06-R-linux-gtk-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502/jre" stamp="1686234810000"/>
+    <entry loc="/usr/lib/jvm/java-17-openjdk-amd64" stamp="1717965709537"/>
+    <entry loc="/home/pedroubu/Área de Trabalho/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143" stamp="1709828694000"/>
     <entry loc="/home/pedro/Área de Trabalho/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502/jre" stamp="1686234810000"/>
+    <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1718033339577"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1717965774498"/>
     <entry loc="/home/pedro/Área de Trabalho/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502" stamp="1686234810000"/>
 </dirs>
